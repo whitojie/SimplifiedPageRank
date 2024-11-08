@@ -1,1 +1,4 @@
 # SimplifiedPageRank
+In the late 90s, as the number of webpages on the internet was growing exponentially, different search engines were trying different approaches to rank the webpages. At Stanford, two computer science Ph.D. students, Sergey Brin and Larry Page, were working on the following questions: How can we trust information? Why are some webpages more important than others? Their research led to the formation of the Google search engine.
+
+In this project, you are required to implement a simplified version of the original PageRank algorithm on which Google was built by representing the web as a graph and implementing this graph using an Adjacency List or an equivalent data structure. The PageRank algorithm is an algorithm that is used to order or rank different webpages on the internet.
